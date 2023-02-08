@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/jhanv/IdeaProjects/AmazonAutomation"><classes><class name="PagePackage.HomePageTest"><methods><include name="testlog"/><include name="search"/></methods></class><class name="PagePackage.LandingPageTest"><methods><include name="bag"/></methods></class><class name="PagePackage.ProductPageTest"><methods><include name="cart"/></methods></class></classes></test></suite>
